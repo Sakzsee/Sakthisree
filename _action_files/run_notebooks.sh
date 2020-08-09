@@ -26,4 +26,3 @@ else
     echo "::set-output name=error_bool::true"
     echo "::set-output name=error_str::${ERRORS}"
 fi
-© 2020 GitHub, Inc.
