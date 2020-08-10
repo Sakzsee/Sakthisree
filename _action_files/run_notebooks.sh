@@ -4,10 +4,9 @@ cd $(dirname "$0")/..
 cd _notebooks/
 
 ERRORS=""
-
 for file in *.ipynb
 do
-    if [ "${file}" = "2020-08-08-COVID19-Dashboard.ipynb" ]; then
+    if [ "${file}" = "2020-08-09-LogisticsClassifier.ipynb" ]; then
         echo "Skipping ${file}"
     elif papermill --kernel python3 "${file}" "${file}"; then
         echo "Sucessfully refreshed ${file}\n\n\n\n"
