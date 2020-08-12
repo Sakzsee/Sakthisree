@@ -6,24 +6,22 @@
 
 https://Sakzsee.github.io/Sakthisree/
 
-# My Blog
+# Welcome to my Blog
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
+Welcome fellow beings to the binary world of the other side!
 
-## What To Do Next?
+The 21st century has been a wild drive and twenty 1 years of riding the wave has made me realized that I’m just a speck in a universe far greater than great could ever be.
 
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
+Being a wonderjunkie, I would like to capture my jumping, raging and calming thoughts of my everyday learnings and mistakes.
 
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
+Technology is indeed seeping in everything we do, interact with, listen to and watch. Such a powerful tool must be leveraged but in a responsible way.
 
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
+With that, I would like for you to see some of my horrendously witten posts with bad grammar and reach out to me with English lessons.
 
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
+In turn, I would love to barter with you some of the tech knowledge I possess.
 
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
+I wish you fare well being.
 
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
